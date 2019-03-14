@@ -1,8 +1,8 @@
 {
-  "name": "vue-test-utils-karma-example",
+  "name": "vue-test-unit",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "eddyerburgh <edward.yerburgh@gmail.com>",
+  "author": "277651205 <277651205@qq.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
